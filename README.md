@@ -3,7 +3,9 @@ CODSOFT C++ Programming Internship
 This repository contains the projects completed as part of the CodSoft C++ Programming Internship.
 The tasks focus on developing basic console-based applications using C++ and strengthening programming fundamentals.
 
+
 📌 Internship Tasks Implemented
+
 
 🔢 Task 1 – Number Guessing Game
 
@@ -21,6 +23,8 @@ Concepts Used
 	•	Conditional statements
 	•	User input/output
 
+
+
 🧮 Task 2 – Simple Calculator
 
 A calculator program that performs basic arithmetic operations.
@@ -37,6 +41,8 @@ Concepts Used
 	•	Switch/conditional statements
 	•	Arithmetic operators
 	•	Console input/output
+
+
 
 📚 Task 5 – Library Management System
 
